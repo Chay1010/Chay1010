@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chay1010
+- 🎓 I am computer science engineer student
 - 👀 I’m interested in debugging and coding especially backend development
-- 🌱 I’m currently learning POO
+- 🌱 I’m currently learning new technoilogies related to AI
 - 💞️ I’m looking to collaborate on a project here on GitHub
 - 📫 you can reach me via email chay101045@gmail.com
 
